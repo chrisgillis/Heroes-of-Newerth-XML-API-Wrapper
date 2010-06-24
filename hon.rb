@@ -26,6 +26,7 @@ module HoN
 	require 'rubygems'
 	require 'rexml/document'
 	require 'lib/stats.rb'
-	require 'lib/playerstats.rb'
-	require 'lib/matchstats.rb'
+	require 'lib/player_stats.rb'
+	require 'lib/match_stats.rb'
+	require 'lib/player_hero_stats.rb'
 end
